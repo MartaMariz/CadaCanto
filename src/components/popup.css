@@ -1,0 +1,66 @@
+.modal {
+    font-size: 12px;
+    background-color:#fff2f8;
+    align-self: center;
+    border-radius: 10%;
+    padding: 20px;
+    height: 30%;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    align-items: center;
+    max-width: 400px;
+
+  }
+.modal > .header {
+    width: 100%;
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 5px;
+    text-align: center;
+  }
+.modal > .content {
+    width: 100%;
+    padding: 10px 5px;
+  }
+.modal > .actions {
+    width: 100%;
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+
+  }
+  .modal > .close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    line-height: 20px;
+    right: -10px;
+    top: -10px;
+    font-size: 15px;
+    color: gray;
+    background: #fff2f8;
+    border-radius: 100%;
+    border-color: #fff2f8;
+  }
+.modal > input{
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 95%;
+ 
+}
+
+
+button {
+  padding: 5px 15px;
+  margin: 0 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #fbb7d5;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #d5ff87;
+}

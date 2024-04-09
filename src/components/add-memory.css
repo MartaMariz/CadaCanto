@@ -1,0 +1,51 @@
+.form {
+    font-size: 12px;
+    background-color: #fff2f8;
+    border-radius: 10%;
+    padding: 20px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    align-items: left;
+    display: flex; /* Set display to flex */
+    flex-direction: column; /* Arrange items in a column */
+  }
+
+  
+  .form > .label {
+    padding: 20px;
+    text-align: left;
+  }
+  
+
+  .form input {
+    width: 95%; /* Make input fields full width */
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  .form textarea {
+    width: 95%;
+    height: 100px;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  .css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    background-color: white;
+    border-radius: 5px;
+  }
+
+  
+  .form button {
+    padding: 5px 15px;
+    margin: 0 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fbb7d5;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-color: #d5ff87;
+  }
+  
