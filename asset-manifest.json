@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cadacanto/static/css/main.420f00cf.css",
+    "main.js": "/cadacanto/static/js/main.f1a1055c.js",
+    "static/js/453.fa99c21e.chunk.js": "/cadacanto/static/js/453.fa99c21e.chunk.js",
+    "index.html": "/cadacanto/index.html",
+    "main.420f00cf.css.map": "/cadacanto/static/css/main.420f00cf.css.map",
+    "main.f1a1055c.js.map": "/cadacanto/static/js/main.f1a1055c.js.map",
+    "453.fa99c21e.chunk.js.map": "/cadacanto/static/js/453.fa99c21e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420f00cf.css",
+    "static/js/main.f1a1055c.js"
+  ]
+}
